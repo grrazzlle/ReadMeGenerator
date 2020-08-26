@@ -1,11 +1,11 @@
 
-  # **asdf**
+  # **[Portfolio](http://github.com/grrazzlle/Portfolio)**
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/)
+  [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
   ## Description
 
-  asdf
+  a portfolio
 
   ## Table of contents
 
@@ -19,29 +19,29 @@
 
   ## Installation
 
-  asdf
+  none
 
   ## Usage
 
-  sadf
+  to view my portfolio
 
   ## Licence
 
-  MIT
+  None
   Find licence info [here](https://choosealicense.com/)
 
   ## Contributoring
 
-  asdf
+  self
 
   ## Tests
 
-  asdf
+  test
 
   ## Github
 
-  My Github is [asdf](http://github.com/asdf)
+  My Github is [grrazzlle](http://github.com/grrazzlle)
 
   ## Questions
 
-  Questions can be emailed [here](mailto:asdf)
+  Questions can be emailed [here](mailto:christopherericlee@yahoo.com)
