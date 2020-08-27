@@ -6,7 +6,7 @@
   ## Description
 
   Makes nice readme's  
-  ![gif of example](./example.gif)
+  ![gif of example](./Develop/example.gif)
 
   ## Table of contents
 
