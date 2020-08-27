@@ -29,7 +29,7 @@ function generateMarkdown(data) {
 
   ## Licence
 
-  ${data.licence}
+  ${data.licence} 
   Find licence info [here](https://choosealicense.com/)
 
   ## Contributoring
@@ -42,7 +42,7 @@ function generateMarkdown(data) {
 
   ## Github
 
-  My Github is [${data.username}](http://github.com/${data.username})
+  My Github is [${data.username}](https://github.com/${data.username})
 
   ## Questions
 

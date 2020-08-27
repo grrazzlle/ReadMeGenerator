@@ -1,11 +1,12 @@
 
-  # **[Portfolio](http://github.com/grrazzlle/Portfolio)**
+  # **[ReadMeGenerator](http://github.com/grrazzlle/ReadMeGenerator)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
   ## Description
 
-  a portfolio
+  Makes nice readme's
+  [video](./example.gif)
 
   ## Table of contents
 
@@ -19,20 +20,20 @@
 
   ## Installation
 
-  none
+  clone repo, run npm install, and run node index.js from the terminal in the index.js
 
   ## Usage
 
-  to view my portfolio
+  to make nice readme's
 
   ## Licence
 
-  None
+  None 
   Find licence info [here](https://choosealicense.com/)
 
   ## Contributoring
 
-  self
+  Self
 
   ## Tests
 
@@ -40,8 +41,8 @@
 
   ## Github
 
-  My Github is [grrazzlle](http://github.com/grrazzlle)
+  My Github is [grrazzlle](https://github.com/grrazzlle)
 
   ## Questions
 
-  Questions can be emailed [here](mailto:christopherericlee@yahoo.com)
+  Questions can be emailed [here](mailto:Cel47@miami.edu)
