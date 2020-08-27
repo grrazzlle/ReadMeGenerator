@@ -6,7 +6,6 @@
   ## Description
 
   Makes nice readme's
-  ![video](./example.gif)
 
   ## Table of contents
 

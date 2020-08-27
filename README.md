@@ -5,8 +5,8 @@
 
   ## Description
 
-  Makes nice readme's
-  
+  Makes nice readme's  
+  ![gif of example](./example.gif)
 
   ## Table of contents
 
@@ -28,7 +28,7 @@
 
   ## Licence
 
-  None 
+  None  
   Find licence info [here](https://choosealicense.com/)
 
   ## Contributoring
