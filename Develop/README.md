@@ -1,11 +1,11 @@
 
-  # **[ReadMeGenerator](http://github.com/grrazzlle/ReadMeGenerator)**
+  # **[TeamProfileGenerator](http://github.com/grrazzlle/TeamProfileGenerator)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
   ## Description
 
-  Makes nice readme's
+  Allows you to create a nice looking team info page, based on prompts from inquirer
 
   ## Table of contents
 
@@ -19,11 +19,11 @@
 
   ## Installation
 
-  clone repo, run npm install, and run node index.js from the terminal in the index.js
+  clone repo and run npm install and then run app.js, file will be created in the output folder
 
   ## Usage
 
-  to make nice readme's
+  run app.js, answer prompted questions, when complete file will be created in the output folder
 
   ## Licence
 
@@ -36,7 +36,7 @@
 
   ## Tests
 
-  test
+  jest
 
   ## Github
 
@@ -44,4 +44,4 @@
 
   ## Questions
 
-  Questions can be emailed [here](mailto:Cel47@miami.edu)
+  Questions can be emailed [here](mailto:cel47@miami.edu)
