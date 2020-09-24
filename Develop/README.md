@@ -1,11 +1,11 @@
 
-  # **[TeamProfileGenerator](http://github.com/grrazzlle/TeamProfileGenerator)**
+  # **[Employee-Tracker](http://github.com/grrazzlle/Employee-Tracker)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
   ## Description
 
-  Allows you to create a nice looking team info page, based on prompts from inquirer
+  A data managment system that allowes users to create edit and delete data to update departments, role, and employees of a company.
 
   ## Table of contents
 
@@ -19,11 +19,11 @@
 
   ## Installation
 
-  clone repo and run npm install and then run app.js, file will be created in the output folder
+  Run the schema.sql in mysql workbench, with mamp servers on, make sure server ports and passwords are set up, then run node index.js
 
   ## Usage
 
-  run app.js, answer prompted questions, when complete file will be created in the output folder
+  Create edit and delete data to update departments, role, and employees
 
   ## Licence
 
@@ -36,7 +36,7 @@
 
   ## Tests
 
-  jest
+  None
 
   ## Github
 
