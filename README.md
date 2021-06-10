@@ -5,7 +5,10 @@
 
   ## Description
 
-  Makes nice readme's  
+  This application allows users to generate ReadMe's using a command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.
+
+  ## Demo
+
   ![gif of example](./Develop/example.gif)
 
   ## Table of contents
@@ -20,18 +23,18 @@
 
   ## Installation
 
-  clone repo, run npm install, and run node index.js from the terminal in the index.js
+  Clone repo, run npm install, and run node index.js from the terminal in the readmegererator folder
 
   ## Usage
 
-  to make nice readme's
+  Answer the question and the readme will be generated or overwritten in the Develop folder
 
   ## Licence
 
   None  
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 

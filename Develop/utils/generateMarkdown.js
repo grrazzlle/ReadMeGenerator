@@ -32,7 +32,7 @@ function generateMarkdown(data) {
   ${data.licence} 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   ${data.contributing}
 
